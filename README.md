@@ -2,6 +2,8 @@
 
 This is only a simple bot written in Go. It runs in a Docker container with a Keybase client already installed and ready to work. Just set some environment variables containing the bot login params, and run!
 
+![Screenshot of bot](screenshot.png)
+
 ## Build
 
 ```bash
